@@ -1,0 +1,17 @@
+# Ignore hidden files and folders
+alaska2-image-steganalysis/*
+alaska2-image-steganalysis.zip
+last-checkpoint.bin
+best-checkpoint-143epoch.bin
+.ipynb_checkpoints/*
+# and Python cache
+__pycache__
+## except for certain file types
+!.gitignore
+!.gitkeep
+!.flake8
+!.pylintrc
+!*.yml
+# and folders with specific rules
+!.dvc/
+!.gitlab-ci/
