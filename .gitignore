@@ -2,7 +2,6 @@
 alaska2-image-steganalysis/*
 alaska2-image-steganalysis.zip
 last-checkpoint.bin
-best-checkpoint-143epoch.bin
 .ipynb_checkpoints/*
 # and Python cache
 __pycache__
