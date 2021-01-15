@@ -175,4 +175,4 @@ for mode in range(0,4):
     
     
 submissions[0]['Label'] = (submissions[0]['Label']*3 + submissions[1]['Label'] + submissions[2]['Label'] + submissions[3]['Label']) / 6
-submissions[0].to_csv(f'Evauation/without_attack/submission.csv', index=False)   
+submissions[0].to_csv(f'../Evauation/without_attack/submission.csv', index=False)   
