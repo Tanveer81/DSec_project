@@ -5,3 +5,5 @@ White Box Attack with ImageNet: https://github.com/Harry24k/adversarial-attacks-
 Documentation:
 
 **Presentation**: https://docs.google.com/presentation/d/1nWF6kdSFXgJHggLFSHd_fG8sAkv-H3cqojQD-QzYeyw/edit#slide=id.p
+**Final Paper**: https://www.overleaf.com/1311294973kbsxvtkcddxq
+ 
