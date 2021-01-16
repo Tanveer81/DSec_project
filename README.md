@@ -1,8 +1,9 @@
 # DSec_project
 TorchAttack: https://github.com/Harry24k/adversarial-attacks-pytorch
+
 White Box Attack with ImageNet: https://github.com/Harry24k/adversarial-attacks-pytorch/blob/master/demos/White%20Box%20Attack%20(ImageNet).ipynb
 
-Noteobooks:
+Notebooks:
 
 **Evaluation**: https://colab.research.google.com/drive/1-SQPaTivdOtxq514WGOnofiUCxCcnWb3?usp=sharing
 
