@@ -17,12 +17,12 @@ Documentation:
 **Data**
 
 Data should be downloaded from this link 'https://www.kaggle.com/c/alaska2-image-steganalysis/data' and stored in '/alaska2-image-steganalysis' folder. This folder contains following directories and files: 
-   -Cover/ contains 75k unaltered images meant for use in training.
-   -JMiPOD/ contains 75k examples of the JMiPOD algorithm applied to the cover images.
-   -JUNIWARD/contains 75k examples of the JUNIWARD algorithm applied to the cover images.
-   -UERD/ contains 75k examples of the UERD algorithm applied to the cover images.
-   -Test/ contains 5k test set images. These are the images for which you are predicting.
-   -sample_submission.csv contains an example submission in the correct format.
+   - Cover/ contains 75k unaltered images meant for use in training.
+   - JMiPOD/ contains 75k examples of the JMiPOD algorithm applied to the cover images.
+   - JUNIWARD/contains 75k examples of the JUNIWARD algorithm applied to the cover images.
+   - UERD/ contains 75k examples of the UERD algorithm applied to the cover images.
+   - Test/ contains 5k test set images. These are the images for which you are predicting.
+   - sample_submission.csv contains an example submission in the correct format.
 
 **Scripts**
 1. steganogan_image_generation.py: This script creates steganoGAN stego from the cover images stored in this directory '/alaska2-image-steganalysis/Cover/'. It encodes randomly created alphanumeric strings of random length between 10 to 50 into all the cover images usign encoder of the steganoGAN model and saves the encoded images here '.alaska2-image-steganalysis/SteganoGAN/'.
