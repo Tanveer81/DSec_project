@@ -24,6 +24,7 @@ import torchattacks
 SEED = 512
 DATA_ROOT_PATH = '../alaska2-image-steganalysis'
 
+# For reproducibility all seeds are set.
 def seed_everything(seed):
     random.seed(seed)
     os.environ['PYTHONHASHSEED'] = str(seed)
@@ -36,7 +37,7 @@ def seed_everything(seed):
 seed_everything(SEED)
 
 
-# Create Dateset
+# Creating Dateset
 print('creating dataset')
 dataset = []
 
@@ -65,7 +66,7 @@ def onehot(size, target):
     vec[target] = 1.
     return vec
 
-# Load model
+# Loading model
 print('Load model')
 def get_net():
     net = EfficientNet.from_pretrained('efficientnet-b2')
