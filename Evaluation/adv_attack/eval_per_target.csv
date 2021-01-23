@@ -1,0 +1,5 @@
+Steganogaphic Algo,No Attack,FGSM Attack,BIM Attack,CW Attack,RFGSM Attack,PGD Attack,FFGSM Attack,MIFGSM Attack,TPGD Attack
+jmipod,0.038,0.423,0.395,0.038,0.251,0.394,0.107,0.58,0.036
+juniward,0.056,0.416,0.401,0.056,0.263,0.401,0.12,0.587,0.026
+uerd,0.055,0.407,0.41,0.055,0.277,0.408,0.133,0.577,0.023
+steganogan,0.072,0.228,0.448,0.072,0.26,0.448,0.116,0.71,0.034
