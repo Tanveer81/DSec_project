@@ -41,6 +41,9 @@ Data should be downloaded from this link 'https://www.kaggle.com/c/alaska2-image
 
 To reproduce the results, one should run the four scripts in the same order.
 
+**Notebooks**
+1. DSec_evaluation.ipynb: This notebook creates evaluation results of the experiments.
+
 
 **Environment**
  
