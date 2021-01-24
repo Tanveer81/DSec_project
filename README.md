@@ -43,6 +43,7 @@ To reproduce the results, one should run the four scripts in the same order.
 
 
 **Environment**
+ 
  We need two python environments because steganogan works only on pytorch 1.0.0. But other libraries and models need newer version.
  1. Steganogan Environment: Only steganogan_image_generation.py needs to be run in this environemnt with python 3.6.
  The only package to install is steganogan by running the command: pip install steganogan. It will install all necessary libraries.
