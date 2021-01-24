@@ -42,5 +42,22 @@ Data should be downloaded from this link 'https://www.kaggle.com/c/alaska2-image
 To reproduce the results, one should run the four scripts in the same order.
 
 
-
+**Environment**
+ We need two python environments because steganogan works only on pytorch 1.0.0. But other libraries and models need newer version.
+ Steganogan Environment: Only steganogan_image_generation.py needs to be run in this environemnt.
+ The only package to install is steganogan by running the command: pip install steganogan
  
+ Other Environment: All other scripts would run in this environemnt.
+ The requirements are:
+      - python 3.6
+      - pytorch 1.5.0
+      - torchattacks 2.12.1
+      - scikit-learn 0.23.2
+      - opencv 3.4.2
+      - scikit-image 0.17.2
+      - pandas 1.1.5
+      - numpy 1.19.2
+      - albumentations 0.5.2
+      - matplotlib 3.3.3
+      - torchvision 0.6.0
+      - efficientnet-pytorch 0.7.0
