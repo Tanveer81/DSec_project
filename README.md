@@ -10,7 +10,9 @@ Notebooks:
 
 Documentation:
 
-**Presentation**: https://docs.google.com/presentation/d/1nWF6kdSFXgJHggLFSHd_fG8sAkv-H3cqojQD-QzYeyw/edit#slide=id.p
+**Kickoff Presentation**: https://docs.google.com/presentation/d/1nWF6kdSFXgJHggLFSHd_fG8sAkv-H3cqojQD-QzYeyw/edit#slide=id.p
+
+**Final Presentation**: https://docs.google.com/presentation/d/1PXsY8NgJm-avOCrAOOV4VSBgxBZptYRxYlFXMR7fk_k/edit#slide=id.p
 
 **Final Paper**: https://www.overleaf.com/1311294973kbsxvtkcddxq
 
